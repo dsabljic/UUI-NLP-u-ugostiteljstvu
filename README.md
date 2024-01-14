@@ -4,4 +4,4 @@ U repozitoriju se nalazi Jupyter Notebook (SentimentAnalysis.ipynb) koji prikazu
 
 U mapi `data` se nalazi [skup podataka](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews) preuzet sa Kaggle platforme u CSV formatu.
 
-Jupyter Notebook je namijenjen za pokretanje u Google Colab okruženju.
+U bilježnici nisu dodane nikakve konfiguracije za GPU treniranje modela jer je prvenstveno namijenjena za pokretanje u Google Colab okruženju.
